@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+* {margin: 0; padding: 0;}
+
+section 
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+    align-items: center;
+    box-shadow: 1px 0 8px 1px #888888;
+}
+
+section .logo img
+{
+    width: 90px;
+    height: 50px;
+}
+
+section nav a 
+{
+    padding: 1.2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: darkgreen;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
